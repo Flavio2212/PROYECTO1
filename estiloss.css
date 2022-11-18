@@ -1,0 +1,44 @@
+header{
+    background-color:#8A0FF5;
+    color: white;
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+main{
+    background-color:#037FF5;
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1{
+    background-color: #0A49FC;
+    color:chartreuse;
+    font-size:50px;
+    font-family:Arial;
+    text-align: center;
+
+}
+
+h2{
+    background-color: rgb(238, 255, 0);
+    color: black;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+p{
+    text-align: justify;
+
+}
+
+img{
+    width:500px;
+    height:500px;
+    margin: auto;
+    display: block;
+}
+
+
